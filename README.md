@@ -1,0 +1,25 @@
+<!-- Lanna Kamilly Fres Mota e Julia da Silva Conconi -->
+Sistema Mobile de Controle de Turmas — Pense College
+Aplicativo desenvolvido como parte do desafio SAEP 2023.1, com o objetivo de criar um sistema mobile para controle de turmas e atividades de professores.
+
+Objetivo:
+O sistema foi desenvolvido para facilitar o gerenciamento de turmas e atividades pelos professores, permitindo:
+- Login seguro no sistema
+- Cadastro, listagem e exclusão de turmas
+- Registro e visualização de atividades
+- Logout com segurança
+
+Tecnologias Utilizadas: 
+- React Native
+- Expo
+- Supabase (autenticação e banco de dados)
+
+Usuários de Teste:
+Professora 1
+E-mail: lannakamillyfresmota@gmail.com
+Senha: 210108
+
+Professora 2
+E-mail: conconijulia@gmail.com
+Senha: 150108
+(Contas criadas apenas para fins de demonstração e teste.)
