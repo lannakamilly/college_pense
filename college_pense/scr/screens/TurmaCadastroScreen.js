@@ -109,7 +109,7 @@ export default function TurmaCadastroScreen({ navigation, route }) {
             />
 
             {/* AVISO: Este campo não será salvo no DB 'turmas' */}
-            <Text style={styles.label}>Descrição (Opcional) - Não salvo no DB</Text>
+            <Text style={styles.label}>Descrição (Opcional)</Text>
             <TextInput
                 style={[styles.input, styles.textArea]}
                 placeholder="Ex: Matemática e Português"
